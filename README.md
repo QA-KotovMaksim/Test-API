@@ -10,8 +10,7 @@
 <img src="https://user-images.githubusercontent.com/109822424/184121224-4edcb712-4619-49c2-add6-f9a048f51905.jpg" />
 
 <h4>Занесенные в Jira баги</h4>
-<img src="https://user-images.githubusercontent.com/109822424/184130361-02d3c5d5-d9e5-4051-b38e-6288699c949a.jpg" />
-
+<img src="https://user-images.githubusercontent.com/109822424/184292998-4aaf77d6-f606-4cf3-98cf-fc89879d3153.jpg" />
 
 
 <h4>Тестовая документация</h4>
